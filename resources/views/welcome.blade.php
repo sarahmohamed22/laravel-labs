@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Yo!
+                    Welcome To Laravel!
                 </div>
 
                 <div class="links">
